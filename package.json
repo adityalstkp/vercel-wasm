@@ -1,10 +1,13 @@
 {
-  "name": "movies-leptos",
+  "name": "vercel-wasm",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "scripts": {
+    "vercel": "vercel"
+  },
   "dependencies": {
     "vercel": "^28.18.5"
   }
